@@ -24,10 +24,4 @@ This project provides a C++ implementation of a graph data structure. It support
 
 - `projeto.cpp`: Implementation file for the `Graph` class.
 - `grafos_testes`: Tests for for the `Graph`.
-## Commands
 
-The `main.cpp` file uses the following commands to perform operations on the graph:
-
-1. **Check Connectivity** (`comando == 0`):
-   ```cpp
-   cout << grafo.ehConexo() << endl;# GraphTheoryProject
