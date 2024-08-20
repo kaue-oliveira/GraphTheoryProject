@@ -1,3 +1,13 @@
+-- Trabalho Prático
+-- Universidade Federal de Lavras
+-- Curso: Ciência da Computação
+-- Disciplina: Algoritmos em Grafos
+-- Grupo K
+-- Membro 1: Kauê de Oliveira Silva    nº de matrícula: 202310532  Turma: 10 A
+-- Membro 2: Thiago Ferreira Azevedo   nº de matrícula: 202311097  Turma: 10 A    
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 #include <iostream>
 #include <vector>
 #include <queue>
