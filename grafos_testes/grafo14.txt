@@ -1,0 +1,4 @@
+0
+2 1
+nao_direcionado
+0 0 1 1
