@@ -1,5 +1,5 @@
--- Trabalho Prático
 -- Universidade Federal de Lavras
+-- Trabalho Prático
 -- Curso: Ciência da Computação
 -- Disciplina: Algoritmos em Grafos
 -- Grupo K
